@@ -1,0 +1,57 @@
+Number of Albums: 4
+
+1st Album:
+Title: Shape of You
+Artist: Ed Sheeran
+Artwork: D:/Programming/Ruby_coding/images/Ed_Sheeran.jpg
+Number of Tracks: 4
+Track 1: SHAPE OF YOU
+Link 1: D:/Programming/Ruby_coding/Music/Shape_of_you.mp3
+Track 2: PERFECT
+Link 2: D:/Programming/Ruby_coding/Music/Perfect.mp3
+Track 3: HAPPIER
+Link 3: D:/Programming/Ruby_coding/Music/Happier.mp3
+Track 4: BAD HABITS
+Link 4: D:/Programming/Ruby_coding/Music/Bad_habits.mp3
+
+2nd Album:
+Title: Alan Walker
+Artist: Alan Walker
+Artwork: D:/Programming/Ruby_coding/images/Alan_Walker.jpg
+Number of Tracks: 4
+Track 1: FADED
+Link 1: D:/Programming/Ruby_coding/Music/Faded.mp3
+Track 2: ALONE
+link 2: D:/Programming/Ruby_coding/Music/Alone.mp3
+Track 3: SING ME TO SLEEP
+Track 3: D:/Programming/Ruby_coding/Music/Sing_me_to_sleep.mp3
+Track 4: THE SPECTRE
+Link 4: D:/Programming/Ruby_coding/Music/The_spectre.mp3
+
+3rd Album: 
+Tittle: Charlie Puth
+Artist: Charlie Puth
+Artwork: D:/Programming/Ruby_coding/images/Charlie_Puth.jpg
+Number of Tracks: 4
+Track 1: ATTENTION
+Link 1: D:/Programming/Ruby_coding/Music/Attention.mp3
+Track 2: SEE YOU AGAIN
+Link 2: D:/Programming/Ruby_coding/Music/See_you_again.mp3
+Track 3: ONE CALL AWAY
+Link 3: D:/Programming/Ruby_coding/Music/One_call_away.mp3
+Track 4: WE DON'T TALK ANYMORE
+Link 4: D:/Programming/Ruby_coding/Music/We_dont_talk_anymore.mp3
+
+4th Album:
+Title: Maroon 5
+Artist: Maroon 5
+Artwork: D:/Programming/Ruby_coding/images/Maroon_5.jpg
+Number of Tracks: 4
+Track 1: SUGAR
+Link 1: D:/Programming/Ruby_coding/Music/Sugar.mp3
+Track 2: MAPS
+Link 2: D:/Programming/Ruby_coding/Music/Maps.mp3
+Track 3: DON'T WANNA KNOW
+Link 3: D:/Programming/Ruby_coding/Music/Don't_wanna_know.mp3
+Track 4: ANIMALS
+Link 4: D:/Programming/Ruby_coding/Music/Animals.mp3
